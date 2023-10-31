@@ -4,11 +4,11 @@ go 1.17
 
 require (
 	github.com/alecthomas/kong v0.4.0
-	github.com/go-bricks/bjaeger v0.0.15
-	github.com/go-bricks/bprometheus v0.0.15
-	github.com/go-bricks/bviper v0.0.15
-	github.com/go-bricks/bzerolog v0.0.15
-	github.com/go-bricks/bricks v0.0.15
+	github.com/go-bricks/bjaeger v0.0.16
+	github.com/go-bricks/bprometheus v0.0.16
+	github.com/go-bricks/bviper v0.0.16
+	github.com/go-bricks/bzerolog v0.0.16
+	github.com/go-bricks/bricks v0.0.16
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.3
 	github.com/opentracing/opentracing-go v1.2.0
 	go.uber.org/fx v1.16.0
